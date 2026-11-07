@@ -1,0 +1,5 @@
+# Do NOT ignore *.wt — the assignment requires them to be committed.
+# Only skip files that aren't needed:
+mongod.lock
+diagnostic.data/
+*.log
